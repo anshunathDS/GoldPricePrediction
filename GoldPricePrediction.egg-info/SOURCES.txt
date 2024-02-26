@@ -1,0 +1,5 @@
+setup.py
+GoldPricePrediction.egg-info/PKG-INFO
+GoldPricePrediction.egg-info/SOURCES.txt
+GoldPricePrediction.egg-info/dependency_links.txt
+GoldPricePrediction.egg-info/top_level.txt
